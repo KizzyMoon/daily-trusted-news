@@ -406,23 +406,41 @@ function stableStoryId(title, link) {
 }
 
 function whyThisMatters(group, keywordHits) {
-  if (group.sources.size > 1) {
-    return "Multiple reputable outlets are covering this, which usually signals wider public significance.";
-  }
+  const widelyReported = group.sources.size > 1 ? " It is also being reported by more than one trusted outlet." : "";
+
   if (keywordHits.includes("election") || keywordHits.includes("government") || keywordHits.includes("parliament")) {
-    return "This could affect public policy, leadership, or democratic decision-making.";
+    return `This could affect public policy, leadership, or democratic decision-making.${widelyReported}`;
   }
   if (keywordHits.includes("outbreak") || keywordHits.includes("who") || keywordHits.includes("nhs")) {
-    return "This may affect public health guidance, services, or risk levels.";
+    return `This may affect public health guidance, services, or risk levels.${widelyReported}`;
   }
   if (keywordHits.includes("economy") || keywordHits.includes("inflation") || keywordHits.includes("interest rates")) {
-    return "Economic shifts can affect household costs, jobs, markets, and public spending.";
+    return `Economic shifts can affect household costs, jobs, markets, and public spending.${widelyReported}`;
   }
   if (keywordHits.includes("war") || keywordHits.includes("conflict") || keywordHits.includes("ceasefire")) {
-    return "Conflict stories can have humanitarian, diplomatic, and security consequences.";
+    return `Conflict stories can have humanitarian, diplomatic, and security consequences.${widelyReported}`;
   }
   if (keywordHits.includes("climate") || keywordHits.includes("disaster")) {
-    return "Environmental and disaster stories can affect safety, infrastructure, and long-term policy.";
+    return `Environmental and disaster stories can affect safety, infrastructure, and long-term policy.${widelyReported}`;
+  }
+
+  if (group.category === "business") {
+    return `Business and economy stories can affect prices, jobs, markets, and public finances.${widelyReported}`;
+  }
+  if (group.category === "health") {
+    return `Health stories can affect services, guidance, research priorities, or everyday risk decisions.${widelyReported}`;
+  }
+  if (group.category === "science-tech") {
+    return `Science and technology stories can shape regulation, research, security, and how people use new tools.${widelyReported}`;
+  }
+  if (group.category === "uk") {
+    return `UK stories can affect public services, national policy, and daily life across the country.${widelyReported}`;
+  }
+  if (group.category === "world") {
+    return `World stories can affect diplomacy, security, trade, migration, or humanitarian conditions.${widelyReported}`;
+  }
+  if (group.sources.size > 1) {
+    return "This is being reported by more than one trusted outlet, which can signal wider public significance.";
   }
   return "";
 }
