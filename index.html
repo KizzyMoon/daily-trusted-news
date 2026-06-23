@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#101419">
+    <meta name="color-scheme" content="dark">
+    <meta name="description" content="A calm daily briefing from trusted public news feeds.">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Daily Brief">
+    <title>Daily Trusted Briefing</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="icon.svg">
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="hero">
+        <div class="hero-topline">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span id="today-label">Today</span>
+        </div>
+        <h1>Daily Trusted Briefing</h1>
+        <p>No clickbait. No gossip. Major stories from reputable public feeds, ranked for breadth and importance.</p>
+        <div class="toolbar" aria-label="Briefing controls">
+          <button class="primary-action" id="refresh-button" type="button">
+            <span aria-hidden="true">↻</span>
+            Refresh
+          </button>
+          <button class="secondary-action" id="toggle-read-button" type="button" aria-pressed="true">
+            Hide read
+          </button>
+        </div>
+        <div class="status-row">
+          <span id="last-updated">Not updated yet</span>
+          <span id="story-count">0 stories</span>
+        </div>
+      </header>
+
+      <nav class="category-tabs" aria-label="Sections">
+        <button class="tab is-active" type="button" data-section="top">Top</button>
+        <button class="tab" type="button" data-section="world">World</button>
+        <button class="tab" type="button" data-section="uk">UK</button>
+        <button class="tab" type="button" data-section="science-tech">Science & Tech</button>
+        <button class="tab" type="button" data-section="health">Health</button>
+        <button class="tab" type="button" data-section="business">Business</button>
+      </nav>
+
+      <section class="notice" id="loading-panel" aria-live="polite">
+        <div class="spinner" aria-hidden="true"></div>
+        <div>
+          <strong>Building today’s briefing</strong>
+          <p>Loading trusted public feeds and grouping related stories.</p>
+        </div>
+      </section>
+
+      <section class="notice error-panel" id="error-panel" hidden>
+        <strong>Some feeds could not load</strong>
+        <p id="error-message"></p>
+      </section>
+
+      <section class="briefing-section is-visible" id="section-top" data-section-panel="top">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Daily briefing</span>
+            <h2>Top Stories</h2>
+          </div>
+          <span class="section-count" data-count-for="top"></span>
+        </div>
+        <div class="story-list" id="top-stories"></div>
+      </section>
+
+      <section class="briefing-section" id="section-world" data-section-panel="world">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Global</span>
+            <h2>World</h2>
+          </div>
+          <span class="section-count" data-count-for="world"></span>
+        </div>
+        <div class="story-list" id="world-stories"></div>
+      </section>
+
+      <section class="briefing-section" id="section-uk" data-section-panel="uk">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Home brief</span>
+            <h2>UK</h2>
+          </div>
+          <span class="section-count" data-count-for="uk"></span>
+        </div>
+        <div class="story-list" id="uk-stories"></div>
+      </section>
+
+      <section class="briefing-section" id="section-science-tech" data-section-panel="science-tech">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Research & industry</span>
+            <h2>Science & Tech</h2>
+          </div>
+          <span class="section-count" data-count-for="science-tech"></span>
+        </div>
+        <div class="story-list" id="science-tech-stories"></div>
+      </section>
+
+      <section class="briefing-section" id="section-health" data-section-panel="health">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Public health</span>
+            <h2>Health</h2>
+          </div>
+          <span class="section-count" data-count-for="health"></span>
+        </div>
+        <div class="story-list" id="health-stories"></div>
+      </section>
+
+      <section class="briefing-section" id="section-business" data-section-panel="business">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Markets & policy</span>
+            <h2>Business / Economy</h2>
+          </div>
+          <span class="section-count" data-count-for="business"></span>
+        </div>
+        <div class="story-list" id="business-stories"></div>
+      </section>
+
+      <footer class="briefing-footer">
+        <p>No single source is perfect. This app prioritises stories reported by multiple reputable outlets and links back to original reporting.</p>
+        <details>
+          <summary>About sources and reliability</summary>
+          <p>This static app reads public RSS or Atom feeds through browser-friendly fallbacks. If a feed blocks browser requests, it is skipped for that refresh and reported above.</p>
+        </details>
+      </footer>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
