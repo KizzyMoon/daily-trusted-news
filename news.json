@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T09:31:58.234Z",
+  "generatedAt": "2026-06-23T09:38:54.407Z",
   "storyCount": 242,
   "failures": [],
   "stories": [
@@ -23,7 +23,7 @@
         "president",
         "who"
       ],
-      "score": 53.391948222222226,
+      "score": 53.299465777777776,
       "why": "This may affect public health guidance, services, or risk levels. It is also being reported by more than one trusted outlet."
     },
     {
@@ -43,7 +43,7 @@
       ],
       "keywordHits": [],
       "score": 43.2,
-      "why": "UK stories can affect public services, national policy, and daily life across the country. It is also being reported by more than one trusted outlet."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable. It is also being reported by more than one trusted outlet."
     },
     {
       "title": "Keir Starmer has quit as prime minister – what will happen next in UK politics?",
@@ -64,8 +64,8 @@
         "prime minister",
         "minister"
       ],
-      "score": 40.53994822222222,
-      "why": "UK stories can affect public services, national policy, and daily life across the country. It is also being reported by more than one trusted outlet."
+      "score": 40.44746577777778,
+      "why": "This may affect household costs, income, or financial pressure for people directly. It is also being reported by more than one trusted outlet."
     },
     {
       "title": "Drug that delays onset of type 1 diabetes approved in England and Wales",
@@ -84,7 +84,7 @@
       "keywordHits": [
         "nhs"
       ],
-      "score": 40.380614888888886,
+      "score": 40.28813244444444,
       "why": "This may affect public health guidance, services, or risk levels. It is also being reported by more than one trusted outlet."
     },
     {
@@ -147,7 +147,7 @@
         "ceasefire",
         "sanctions"
       ],
-      "score": 37.75839288888889,
+      "score": 37.66591022222222,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -168,7 +168,7 @@
         "parliament",
         "economy"
       ],
-      "score": 36.98128177777778,
+      "score": 36.88879911111111,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -187,7 +187,7 @@
         "health"
       ],
       "keywordHits": [],
-      "score": 36.97683711111111,
+      "score": 36.88435466666667,
       "why": "UK stories can affect public services, national policy, and daily life across the country. It is also being reported by more than one trusted outlet."
     },
     {
@@ -208,7 +208,7 @@
         "president",
         "who"
       ],
-      "score": 36.18105955555556,
+      "score": 36.08857688888889,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -229,7 +229,7 @@
         "nhs",
         "minister"
       ],
-      "score": 35.380614888888886,
+      "score": 35.28813244444444,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -251,7 +251,27 @@
         "parliament",
         "minister"
       ],
-      "score": 34.05350377777778,
+      "score": 33.961021333333335,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
+    },
+    {
+      "title": "UK services sector shrinks at fastest pace since 2023; global shares tumble after US tech sell-off – business live",
+      "link": "https://www.theguardian.com/business/live/2026/jun/23/crude-oil-falls-us-waiver-iran-sanctions-peace-talks-progress-live-updates",
+      "snippet": "US stock futures point to lower Wall Street open; British grocery inflation slows to 3%, says Worldpanel, while heatwave boosts sales of suncare and syrups for water amid #WaterTok trend UK business leaders have called for bold decisions from a new government ",
+      "source": "The Guardian",
+      "category": "business",
+      "published": "2026-06-23T09:16:23.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "business"
+      ],
+      "keywordHits": [
+        "government",
+        "inflation"
+      ],
+      "score": 32.2,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -271,7 +291,7 @@
         "war",
         "minister"
       ],
-      "score": 31.988170666666665,
+      "score": 31.895688,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -291,7 +311,7 @@
         "war",
         "president"
       ],
-      "score": 30.67861511111111,
+      "score": 30.586132444444445,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -311,7 +331,7 @@
         "election",
         "president"
       ],
-      "score": 29.53728177777778,
+      "score": 29.44479911111111,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -332,7 +352,7 @@
         "who",
         "minister"
       ],
-      "score": 29.163059333333333,
+      "score": 29.070576888888887,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -354,7 +374,7 @@
         "climate",
         "minister"
       ],
-      "score": 27.231281555555555,
+      "score": 27.138799111111112,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -377,23 +397,23 @@
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
-      "title": "UK services sector shrinks at fastest pace since 2023; global shares tumble after US tech sell-off – business live",
-      "link": "https://www.theguardian.com/business/live/2026/jun/23/crude-oil-falls-us-waiver-iran-sanctions-peace-talks-progress-live-updates",
-      "snippet": "British grocery inflation slows to 3%, says Worldpanel, while heatwave boosts sales of suncare and syrups for water amid #WaterTok trend The UK’s services sector is shrinking at the fastest rate in nearly three and a half years, underlining the tough economic ",
+      "title": "David Pocock urges Albanese to stop tech companies training AI models using Australian content",
+      "link": "https://www.theguardian.com/technology/2026/jun/23/david-pocock-urges-albanese-to-stop-tech-companies-training-ai-models-using-australian-content",
+      "snippet": "Independent senator says Anthony Albanese is preparing to announce an AI copyright plan in July Get our breaking news email, free app or daily news podcast The independent senator David Pocock has challenged the Albanese government to rule out letting tech gia",
       "source": "The Guardian",
-      "category": "business",
-      "published": "2026-06-23T09:04:52.000Z",
+      "category": "world",
+      "published": "2026-06-23T09:16:00.000Z",
       "sources": [
         "The Guardian"
       ],
       "categories": [
-        "business"
+        "world"
       ],
       "keywordHits": [
-        "inflation"
+        "government"
       ],
       "score": 26.2,
-      "why": "Economic shifts can affect household costs, jobs, markets, and public spending."
+      "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
       "title": "Andrew Hastie to get extra security, citing One Nation campaign against him",
@@ -430,7 +450,7 @@
       "keywordHits": [
         "outbreak"
       ],
-      "score": 26.2,
+      "score": 26.12991022222222,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -451,8 +471,8 @@
         "who",
         "court"
       ],
-      "score": 26.099948222222224,
-      "why": "This may affect public health guidance, services, or risk levels."
+      "score": 26.007465777777774,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
@@ -470,7 +490,7 @@
       "keywordHits": [
         "who"
       ],
-      "score": 25.841948444444444,
+      "score": 25.74946577777778,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -489,27 +509,8 @@
       "keywordHits": [
         "government"
       ],
-      "score": 25.66839288888889,
+      "score": 25.575910222222223,
       "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "Public transport fee relief and car rego cut by $100 in NSW budget targeting cost-of-living pressures",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/23/nsw-budget-2026-public-transport-road-toll-cap-cost-of-living-pressures-daniel-mookhey",
-      "snippet": "Australia’s most populous state forecast to plunge into worse-than-expected $2.3bn deficit in 2026-27, before rebounding to a $1.1bn surplus following year Get our breaking news email, free app or daily news podcast Public transport fares will be frozen for on",
-      "source": "The Guardian",
-      "category": "world",
-      "published": "2026-06-23T07:50:39.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "budget"
-      ],
-      "score": 25.649059555555556,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
       "title": "From bendy bananas to £350m for the NHS – how many Brexit promises actually came true?",
@@ -528,7 +529,7 @@
       "keywordHits": [
         "nhs"
       ],
-      "score": 25.580837111111112,
+      "score": 25.488354666666666,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -548,7 +549,7 @@
         "who",
         "attack"
       ],
-      "score": 25.379281555555554,
+      "score": 25.28679911111111,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -568,7 +569,7 @@
         "war",
         "who"
       ],
-      "score": 25.221726,
+      "score": 25.129243555555554,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -587,7 +588,7 @@
       "keywordHits": [
         "election"
       ],
-      "score": 25.218170666666666,
+      "score": 25.125688,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -606,7 +607,7 @@
       "keywordHits": [
         "who"
       ],
-      "score": 25.08128177777778,
+      "score": 24.988799111111113,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -625,7 +626,7 @@
       "keywordHits": [
         "war"
       ],
-      "score": 24.981281777777777,
+      "score": 24.888799111111112,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -644,7 +645,7 @@
       "keywordHits": [
         "who"
       ],
-      "score": 23.624837333333332,
+      "score": 23.532354666666667,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -663,7 +664,7 @@
       "keywordHits": [
         "who"
       ],
-      "score": 23.511948444444442,
+      "score": 23.419465777777777,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -682,7 +683,7 @@
       "keywordHits": [
         "who"
       ],
-      "score": 23.505503777777776,
+      "score": 23.413021333333333,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
@@ -702,7 +703,7 @@
         "war",
         "minister"
       ],
-      "score": 23.37861488888889,
+      "score": 23.286132444444444,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -737,7 +738,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 22.708837333333335,
+      "score": 22.616354666666666,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -756,7 +757,7 @@
       "keywordHits": [
         "war"
       ],
-      "score": 22.58039266666667,
+      "score": 22.487910222222222,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -777,7 +778,7 @@
         "government",
         "attack"
       ],
-      "score": 22.579059333333333,
+      "score": 22.486576888888887,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -797,7 +798,7 @@
       "keywordHits": [
         "flood"
       ],
-      "score": 21.58950377777778,
+      "score": 21.497021333333333,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -880,8 +881,8 @@
         "court",
         "attack"
       ],
-      "score": 20.956614888888886,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "score": 20.864132444444444,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
@@ -898,7 +899,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 20.897503999999998,
+      "score": 20.805021333333332,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -915,8 +916,8 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 20.597504,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "score": 20.50502133333333,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Europe heatwave live: UK temperatures forecast to reach 38C after overnight storms; France has hottest night since records began",
@@ -1035,7 +1036,7 @@
       ],
       "keywordHits": [],
       "score": 20.2,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Iran says technical talks with US in Switzerland conclude successfully",
@@ -1085,7 +1086,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 20.2,
+      "score": 20.18035488888889,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1102,7 +1103,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 20.2,
+      "score": 20.169688222222224,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1119,7 +1120,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 20.2,
+      "score": 20.149910444444444,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1139,8 +1140,8 @@
         "who",
         "minister"
       ],
-      "score": 20.030614888888888,
-      "why": "This may affect public health guidance, services, or risk levels."
+      "score": 19.93813244444444,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Ransom note claims Nancy Guthrie died after abduction",
@@ -1156,7 +1157,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 19.919504,
+      "score": 19.827021333333334,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1173,8 +1174,8 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 19.631059555555556,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "score": 19.53857688888889,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
@@ -1191,7 +1192,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 19.507059333333334,
+      "score": 19.414576888888888,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1211,8 +1212,8 @@
         "court",
         "minister"
       ],
-      "score": 19.435726,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "score": 19.343243555555553,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "How a dead extremist Rabbi still shapes Israeli politics today",
@@ -1228,7 +1229,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 19.211059555555554,
+      "score": 19.11857688888889,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1247,7 +1248,7 @@
       "keywordHits": [
         "attack"
       ],
-      "score": 18.991726,
+      "score": 18.899243555555557,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1264,7 +1265,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 18.981504,
+      "score": 18.889021333333332,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1281,7 +1282,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 18.981059555555554,
+      "score": 18.88857688888889,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1298,7 +1299,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 18.672392888888886,
+      "score": 18.57991022222222,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1318,7 +1319,7 @@
         "prime minister",
         "minister"
       ],
-      "score": 18.501281555555558,
+      "score": 18.408799111111108,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -1335,7 +1336,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 18.342837333333335,
+      "score": 18.250354666666667,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1352,7 +1353,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 18.247726222222223,
+      "score": 18.155243555555558,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1369,7 +1370,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 18.049059555555555,
+      "score": 17.95657688888889,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -1386,7 +1387,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 18.010837333333335,
+      "score": 17.918354666666666,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1403,7 +1404,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.923504,
+      "score": 17.831021333333332,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1420,7 +1421,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.91439288888889,
+      "score": 17.821910222222222,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1437,7 +1438,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.895504,
+      "score": 17.803021333333334,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1454,7 +1455,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.84439288888889,
+      "score": 17.75191022222222,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1471,7 +1472,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 17.766392888888888,
+      "score": 17.673910222222222,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1488,7 +1489,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 17.683059555555555,
+      "score": 17.59057688888889,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -1505,8 +1506,8 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 17.647948444444445,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "score": 17.555465777777776,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Man died after suffering 'catastrophic' injuries fixing door at work",
@@ -1522,7 +1523,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 17.619948444444447,
+      "score": 17.527465777777778,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -1539,7 +1540,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 17.58239288888889,
+      "score": 17.48991022222222,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -1556,7 +1557,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 17.37883711111111,
+      "score": 17.286354666666668,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1573,7 +1574,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.11261488888889,
+      "score": 17.020132444444442,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1592,7 +1593,7 @@
       "keywordHits": [
         "president"
       ],
-      "score": 16.851059333333332,
+      "score": 16.75857688888889,
       "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
@@ -1609,7 +1610,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 16.58039266666667,
+      "score": 16.487910222222222,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -1627,8 +1628,8 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 15.607726,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "score": 15.515243555555555,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
@@ -1646,7 +1647,7 @@
       "keywordHits": [
         "war"
       ],
-      "score": 15.423726,
+      "score": 15.331243555555554,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -1666,7 +1667,7 @@
         "prime minister",
         "minister"
       ],
-      "score": 15.340170444444443,
+      "score": 15.247688,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -1683,7 +1684,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 15.25683711111111,
+      "score": 15.164354666666666,
       "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
@@ -1744,7 +1745,7 @@
         "election"
       ],
       "score": 15,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "My trip to meet the scientists trying to refreeze the Arctic",
@@ -1784,7 +1785,7 @@
         "minister"
       ],
       "score": 15,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "The audacious plan to refreeze the Arctic – podcast",
@@ -1864,7 +1865,7 @@
         "minister"
       ],
       "score": 15,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar",
@@ -1984,7 +1985,7 @@
         "outbreak"
       ],
       "score": 15,
-      "why": "This may affect public health guidance, services, or risk levels."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "World Health Assembly opens in Geneva, Switzerland",
@@ -2042,7 +2043,7 @@
       "keywordHits": [
         "war"
       ],
-      "score": 14.09683711111111,
+      "score": 14.004354666666664,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
@@ -2061,7 +2062,7 @@
       "keywordHits": [
         "economy"
       ],
-      "score": 13.875281555555553,
+      "score": 13.78279911111111,
       "why": "Economic shifts can affect household costs, jobs, markets, and public spending."
     },
     {
@@ -2080,8 +2081,8 @@
       "keywordHits": [
         "attack"
       ],
-      "score": 13.635948222222222,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "score": 13.543465777777776,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
@@ -2099,7 +2100,7 @@
       "keywordHits": [
         "election"
       ],
-      "score": 13.371059333333331,
+      "score": 13.278576888888889,
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
@@ -2116,7 +2117,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 12.592392666666667,
+      "score": 12.499910222222221,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -2133,7 +2134,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 12.353503777777776,
+      "score": 12.261021333333334,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -2152,25 +2153,8 @@
       "keywordHits": [
         "war"
       ],
-      "score": 12.184392666666668,
+      "score": 12.091910222222221,
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-      "snippet": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
-      "source": "BBC",
-      "category": "business",
-      "published": "2026-06-22T22:20:07.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "business"
-      ],
-      "keywordHits": [],
-      "score": 12.041948222222222,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
       "title": "Tech Life",
@@ -2207,6 +2191,23 @@
       "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
+      "title": "Tesla crash that killed a woman under US federal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "snippet": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+      "source": "BBC",
+      "category": "business",
+      "published": "2026-06-22T22:20:07.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "business"
+      ],
+      "keywordHits": [],
+      "score": 11.949465777777776,
+      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+    },
+    {
       "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
       "link": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
       "snippet": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
@@ -2220,7 +2221,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 11.836170444444443,
+      "score": 11.743688,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -2237,7 +2238,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 11.219281555555554,
+      "score": 11.126799111111112,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -2254,8 +2255,8 @@
         "health"
       ],
       "keywordHits": [],
-      "score": 10.582837111111111,
-      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
+      "score": 10.490354666666667,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
@@ -2272,7 +2273,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 9.94394822222222,
+      "score": 9.851465777777777,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -2289,8 +2290,8 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 9.713503777777778,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "score": 9.621021333333331,
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Cracks are showing in Trump’s blue-collar base | Steven Greenhouse",
@@ -2328,7 +2329,7 @@
         "court"
       ],
       "score": 9,
-      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
@@ -2556,7 +2557,7 @@
         "war"
       ],
       "score": 9,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
@@ -2632,7 +2633,7 @@
         "court"
       ],
       "score": 9,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Cambridge experts recreate 336-year-old garden to commemorate ‘father of natural history’",
@@ -2765,7 +2766,7 @@
         "government"
       ],
       "score": 9,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "The war with Iran is making oil changes pricier. And a deal won't solve it",
@@ -2803,7 +2804,7 @@
         "war"
       ],
       "score": 9,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
@@ -3028,7 +3029,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 8.820170444444443,
+      "score": 8.727688,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -3045,7 +3046,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 8.439281555555555,
+      "score": 8.34679911111111,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3062,7 +3063,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 8.17883711111111,
+      "score": 8.086354666666667,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3079,7 +3080,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 7.843059333333331,
+      "score": 7.750576888888888,
       "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
@@ -3096,7 +3097,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 7.538837111111109,
+      "score": 7.446354666666666,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3113,7 +3114,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 7.477948222222221,
+      "score": 7.385465777777778,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -3130,8 +3131,8 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 7.4188371111111096,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "score": 7.326354666666665,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "EasyJet bidder is still offering less than a full ticket | Nils Pratley",
@@ -3147,8 +3148,8 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 7.294392666666667,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+      "score": 7.201910222222221,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Twins marry twins in joyous Nigerian joint wedding",
@@ -3164,7 +3165,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 6.98861488888889,
+      "score": 6.896132444444444,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3181,7 +3182,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 6.599281555555555,
+      "score": 6.506799111111109,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3198,7 +3199,7 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 6.573725999999999,
+      "score": 6.481243555555556,
       "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
@@ -3215,8 +3216,8 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 6.383059333333332,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "score": 6.290576888888889,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Despite state bans, abortions have almost doubled. The reason? Pills via telehealth",
@@ -3249,7 +3250,7 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 5.5192815555555566,
+      "score": 5.4267991111111105,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
@@ -3266,7 +3267,7 @@
         "health"
       ],
       "keywordHits": [],
-      "score": 5.217725999999999,
+      "score": 5.125243555555556,
       "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
@@ -3283,7 +3284,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 5.152837111111111,
+      "score": 5.060354666666665,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -3300,7 +3301,7 @@
         "health"
       ],
       "keywordHits": [],
-      "score": 3.773726,
+      "score": 3.6812435555555574,
       "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
@@ -3317,7 +3318,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 3.3083926666666663,
+      "score": 3.215910222222224,
       "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
@@ -3334,7 +3335,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 3.156837111111109,
+      "score": 3.0643546666666666,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -3351,7 +3352,7 @@
         "business"
       ],
       "keywordHits": [],
-      "score": 3.1175037777777774,
+      "score": 3.0250213333333313,
       "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
@@ -3437,7 +3438,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Toy Story 5 scores record opening weekend for franchise",
@@ -3624,7 +3625,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "How can we help our fathers live longer?",
@@ -3726,7 +3727,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "New video game console aims to get kids moving",
@@ -3794,7 +3795,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
@@ -3828,7 +3829,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts",
@@ -3879,7 +3880,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
@@ -4049,7 +4050,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Lululemon apologises after Japanese drum row at Great Wall yoga event",
@@ -4134,7 +4135,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Why a brain research lab is switching from fruit flies to tiny fish",
@@ -4151,7 +4152,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Why you might not be buying the right pain relief for period cramps",
@@ -4219,7 +4220,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
@@ -4287,7 +4288,7 @@
       ],
       "keywordHits": [],
       "score": 3,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "Nasa names next astronauts for Artemis Moon programme",

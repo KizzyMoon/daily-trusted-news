@@ -407,6 +407,17 @@ function stableStoryId(title, link) {
 
 function whyThisMatters(group, keywordHits) {
   const widelyReported = group.sources.size > 1 ? " It is also being reported by more than one trusted outlet." : "";
+  const allText = `${group.title} ${group.snippet}`.toLowerCase();
+
+  if (mentionsAny(allText, ["competition", "regulator", "watchdog", "fine", "refund", "fee", "fees", "customer", "customers", "consumer", "consumers"])) {
+    return `This affects consumer protection, market fairness, or how companies are held accountable.${widelyReported}`;
+  }
+  if (mentionsAny(allText, ["court", "judge", "trial", "lawsuit", "legal", "supreme court", "charged", "sentenced"])) {
+    return `Legal and court decisions can set precedents, change accountability, or affect public trust.${widelyReported}`;
+  }
+  if (mentionsAny(allText, ["tax", "benefits", "pay", "wages", "bills", "rent", "mortgage", "energy prices"])) {
+    return `This may affect household costs, income, or financial pressure for people directly.${widelyReported}`;
+  }
 
   if (keywordHits.includes("election") || keywordHits.includes("government") || keywordHits.includes("parliament")) {
     return `This could affect public policy, leadership, or democratic decision-making.${widelyReported}`;
@@ -443,6 +454,10 @@ function whyThisMatters(group, keywordHits) {
     return "This is being reported by more than one trusted outlet, which can signal wider public significance.";
   }
   return "";
+}
+
+function mentionsAny(text, terms) {
+  return terms.some((term) => text.includes(term));
 }
 
 function labelFor(category) {
