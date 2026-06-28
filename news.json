@@ -1,47 +1,89 @@
 {
-  "generatedAt": "2026-06-28T14:17:16.770Z",
-  "storyCount": 252,
+  "generatedAt": "2026-06-28T19:47:08.278Z",
+  "storyCount": 245,
   "failures": [],
   "stories": [
     {
-      "title": "Stories of survivors of Venezuela’s earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/stories-of-survivors-of-venezuelas-earthquakes?traffic_source=rss",
-      "snippet": "Rescuers in Venezuela are racing against time to find survivors after twin earthquakes left thousands missing.",
-      "source": "Al Jazeera",
+      "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+      "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+      "snippet": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+      "source": "NPR",
       "category": "world",
-      "published": "2026-06-28T13:21:47.000Z",
+      "published": "2026-06-28T18:01:07.000Z",
       "sources": [
-        "Al Jazeera",
-        "NPR"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "earthquake"
-      ],
-      "score": 43.2,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions. It is also being reported by more than one trusted outlet."
-    },
-    {
-      "title": "Uganda’s military chief orders shutdown of two media outlets",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
-      "snippet": "The president&#039;s son said he did not believe in a free press as military personnel were deployed to the media offices.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T11:08:27.000Z",
-      "sources": [
-        "Al Jazeera",
+        "NPR",
         "BBC"
       ],
       "categories": [
         "world"
       ],
       "keywordHits": [
-        "president"
+        "president",
+        "ceasefire"
       ],
-      "score": 41.48227422222222,
+      "score": 51.58638355555556,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences. It is also being reported by more than one trusted outlet."
+    },
+    {
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "snippet": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-28T16:33:50.000Z",
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world",
+        "science-tech"
+      ],
+      "keywordHits": [
+        "wildfire"
+      ],
+      "score": 44.422605777777775,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions. It is also being reported by more than one trusted outlet."
+    },
+    {
+      "title": "British man arrested in Ecuador after woman’s body found in suitcase in Colombia",
+      "link": "https://www.theguardian.com/world/2026/jun/28/british-man-arrested-ecuador-matthew-foster-smith",
+      "snippet": "Matthew Ashley Foster-Smith, from Dorset, is accused of killing Natalia Villalba in an apartment in Bogotá A British man has been arrested in Ecuador after the body of a woman was found inside a suitcase in Colombia. Matthew Ashley Foster-Smith is alleged to h",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T18:00:57.000Z",
+      "sources": [
+        "The Guardian",
+        "BBC"
+      ],
+      "categories": [
+        "uk",
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 39.584161333333334,
+      "why": "UK stories can affect public services, national policy, and daily life across the country. It is also being reported by more than one trusted outlet."
+    },
+    {
+      "title": "Risk of serious birth injuries is rising for women in England, data suggests",
+      "link": "https://www.theguardian.com/society/2026/jun/28/risk-serious-childbirth-injuries-women-england-nhs",
+      "snippet": "About 31 in every 1,000 facing haemorrhage or severe tears, NHS figures show, in trend described as ‘national crisis’ How a Romford maternity ward was able to turn the tide after a ‘requires improvement’ rating Women in England are at their highest risk of suf",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T19:03:21.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "war",
+        "crisis",
+        "nhs"
+      ],
+      "score": 38.2,
+      "why": "This may affect public health guidance, services, or risk levels."
     },
     {
       "title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
@@ -62,56 +104,73 @@
         "earthquake",
         "who"
       ],
-      "score": 41.20671866666667,
+      "score": 36.80860555555556,
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
-      "snippet": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "snippet": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-28T19:37:07.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world",
+        "science-tech"
+      ],
+      "keywordHits": [
+        "war",
+        "who"
+      ],
+      "score": 35.2,
+      "why": "This may affect public health guidance, services, or risk levels."
+    },
+    {
+      "title": "Israel strikes Lebanon, testing days-old peace deal",
+      "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+      "snippet": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T08:39:48.000Z",
+      "published": "2026-06-28T15:53:07.000Z",
       "sources": [
         "Al Jazeera",
-        "NPR"
+        "BBC"
       ],
       "categories": [
         "world"
       ],
-      "keywordHits": [
-        "attack"
-      ],
-      "score": 39.500274222222224,
+      "keywordHits": [],
+      "score": 34.87971666666667,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions. It is also being reported by more than one trusted outlet."
     },
     {
-      "title": "Paradise lost: How Israel is making war on West Bank farmers",
-      "link": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss",
-      "snippet": "Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.",
-      "source": "Al Jazeera",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "source": "BBC",
       "category": "world",
-      "published": "2026-06-28T13:19:26.000Z",
+      "published": "2026-06-28T14:30:05.000Z",
       "sources": [
-        "Al Jazeera"
+        "BBC",
+        "The Guardian"
       ],
       "categories": [
         "world"
       ],
-      "keywordHits": [
-        "war",
-        "attack"
-      ],
-      "score": 32.2,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+      "keywordHits": [],
+      "score": 33.77260555555556,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust. It is also being reported by more than one trusted outlet."
     },
     {
-      "title": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
-      "snippet": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
+      "title": "Can the ICJ help end the war in the eastern DRC?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
+      "snippet": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T12:13:18.000Z",
+      "published": "2026-06-28T19:24:05.000Z",
       "sources": [
         "Al Jazeera"
       ],
@@ -120,10 +179,50 @@
       ],
       "keywordHits": [
         "war",
-        "attack"
+        "court"
       ],
-      "score": 31.346940888888888,
+      "score": 32.2,
       "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
+    },
+    {
+      "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
+      "link": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss",
+      "snippet": "Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T15:01:18.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [
+        "crisis",
+        "outbreak"
+      ],
+      "score": 29.188827777777778,
+      "why": "This may affect public health guidance, services, or risk levels."
+    },
+    {
+      "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T18:05:35.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk",
+        "health"
+      ],
+      "keywordHits": [
+        "war"
+      ],
+      "score": 28.64593911111111,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
       "title": "Outrage as woman jailed for three years after criticising Somali government online",
@@ -148,139 +247,42 @@
       "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
-      "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
-      "link": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
-      "snippet": "In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames Water As he swept towards victory in the Makerfield byelection, Andy Burnham told voters he wanted to see",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T06:00:01.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "war",
-        "election"
-      ],
-      "score": 26.369829777777777,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
-      "snippet": "Doubled penalties will have little effect if platforms not held to account for the content they carry, observers say Get our breaking news email, free app or daily news podcast The government needs to switch into “enforcement mode” and take on tech giants over",
-      "source": "The Guardian",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "source": "BBC",
       "category": "world",
-      "published": "2026-06-28T05:51:15.000Z",
+      "published": "2026-06-28T19:21:07.000Z",
       "sources": [
-        "The Guardian"
+        "BBC"
       ],
       "categories": [
         "world"
       ],
       "keywordHits": [
-        "war",
-        "government"
-      ],
-      "score": 26.25294088888889,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "Burnham may have to boost defence spending to pass ‘Moscow test’, says ex-military chief",
-      "link": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-defence-spending-moscow-test-ex-military-chief-tony-radakin",
-      "snippet": "Adm Sir Tony Radakin says UK currenly ‘falls short’ of level required to keep Russian threats at bay The former head of the armed forces has told Andy Burnham that plans for defence spending must meet a “Moscow test” to keep Russian threats at bay, warning the",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T14:05:29.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 26.2,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "Ukraine says it attacked two Russian oil refineries",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
-      "snippet": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T13:36:15.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "attack"
-      ],
-      "score": 26.2,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
-      "snippet": "Iran and the US trade attacks over navigation through the Strait of Hormuz, which has emerged as a major sticking point.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T13:17:40.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "attack"
+        "earthquake"
       ],
       "score": 26.2,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
-      "snippet": "Simon Peter Carman, 46, has denied the charges against him Get our breaking news email, free app or daily news podcast An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand. Pattaya City polic",
-      "source": "The Guardian",
+      "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+      "link": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
+      "snippet": "Demonstrators doubt the president is truly surrendering power after 12 years in charge.",
+      "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T09:25:27.000Z",
+      "published": "2026-06-28T18:53:49.000Z",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ],
       "categories": [
         "world"
       ],
       "keywordHits": [
-        "who"
+        "president"
       ],
-      "score": 26.10894088888889,
-      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
-    },
-    {
-      "title": "Ministers urged to curb energy costs as Great British homes face 13% bill surge",
-      "link": "https://www.theguardian.com/business/2026/jun/28/ministers-urged-to-curb-energy-costs-as-great-british-homes-face-bill-surge",
-      "snippet": "Quarterly Ofgem price cap rises to equivalent of £1,862 a year from 1 July amid growing consumer energy debt Ministers are facing growing pressure to lower energy costs as households in Great Britain face the steepest rise in summer bills in four years this we",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T13:04:02.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "minister"
-      ],
-      "score": 26.023385333333334,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
+      "score": 26.2,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
       "title": "Trump threatens 100% tariff on European countries that impose digital tax",
@@ -303,14 +305,33 @@
       "why": "This may affect household costs, income, or financial pressure for people directly. It is also being reported by more than one trusted outlet."
     },
     {
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "source": "BBC",
+      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+      "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "snippet": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
+      "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T12:39:41.000Z",
+      "published": "2026-06-28T18:05:18.000Z",
       "sources": [
-        "BBC"
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [
+        "attack"
+      ],
+      "score": 25.642161333333334,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "The aftermath of Venezuela’s deadly earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss",
+      "snippet": "The search for survivors continues in Venezuela after a powerful earthquake left hundreds dead and thousands missing.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T17:50:38.000Z",
+      "sources": [
+        "Al Jazeera"
       ],
       "categories": [
         "world"
@@ -318,46 +339,180 @@
       "keywordHits": [
         "earthquake"
       ],
-      "score": 25.698718666666668,
+      "score": 25.446605777777776,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-      "snippet": "Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.",
+      "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
+      "snippet": "Drone footage from Venezuela&#039;s La Guaira shows widespread destruction after twin earthquakes devastated the region.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T12:38:33.000Z",
+      "published": "2026-06-28T16:38:04.000Z",
       "sources": [
         "Al Jazeera"
       ],
       "categories": [
         "world"
+      ],
+      "keywordHits": [
+        "earthquake"
+      ],
+      "score": 24.47905022222222,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "‘Financial pandemic’: £1 in every £11 spent on UK public contractors goes to private equity",
+      "link": "https://www.theguardian.com/society/2026/jun/28/1-in-every-11-spent-uk-public-contractors-private-equity",
+      "snippet": "Almost £24.4bn of government money went to private equity-run firms in year to April 2025, Guardian analysis shows ‘Treating children like cattle’: what happens when private equity takes over a UK care home? Nurseries, vets and shops: the sectors where private",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T16:00:17.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "government"
+      ],
+      "score": 23.975272222222223,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
+    },
+    {
+      "title": "Body of boy, 15, recovered from Manchester reservoir amid UK heatwave",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/28/body-boy-manchester-reservoir-uk-heatwave",
+      "snippet": "At least seven people have died in water-related incidents during record-breaking June temperatures The body of a 15-year-old boy has been recovered from a reservoir near Manchester, as police renewed warnings about the dangers of swimming in open water during",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T15:02:08.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "war"
+      ],
+      "score": 23.199938888888887,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+    },
+    {
+      "title": "Pauline Hanson’s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/29/one-nation-pauline-hanson-election-funding-withdrawals-aec-ntwnfb",
+      "snippet": "The Australian Electoral Commission is examining if party breached laws in its $6m public funding claim after the last election, documents show Get our breaking news email, free app or daily news podcast The Australian Electoral Commission questioned Pauline H",
+      "source": "The Guardian",
+      "category": "world",
+      "published": "2026-06-28T15:00:14.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [
+        "election"
+      ],
+      "score": 23.174605555555555,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
+    },
+    {
+      "title": "Parliament has been getting frosty as winter closes in – but Labor may make one more gamble before the break",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/29/parliament-has-been-getting-frosty-as-winter-closes-in-but-labor-may-make-one-more-gamble-before-the-break",
+      "snippet": "As Labor pushes on with reforms, the Coalition must decide whether to join in the parliamentary deal-making Get our breaking news email, free app or daily news podcast It’s the last week of parliament before the winter break, and not a minute too soon; tension",
+      "source": "The Guardian",
+      "category": "world",
+      "published": "2026-06-28T15:00:13.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [
+        "parliament"
+      ],
+      "score": 23.17438333333333,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
+    },
+    {
+      "title": "Burnham may have to boost defence spending to pass ‘Moscow test’, says ex-military chief",
+      "link": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-defence-spending-moscow-test-ex-military-chief-tony-radakin",
+      "snippet": "Adm Sir Tony Radakin says UK currenly ‘falls short’ of level required to keep Russian threats at bay The former head of the armed forces has told Andy Burnham that plans for defence spending must meet a “Moscow test” to keep Russian threats at bay, warning the",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T14:05:29.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "war"
+      ],
+      "score": 22.444605555555555,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+    },
+    {
+      "title": "Feeling bored and disconnected for your job? You may be facing workplace 'rust-out' | Gene Marks",
+      "link": "https://www.theguardian.com/business/2026/jun/28/workplace-rust-out-bored-with-job",
+      "snippet": "The latest work buzzword describes feeling under-stimulated at your job – but you can break free from workplace monotony There is a woman I know who works in the accounts payable department at one of my clients. She’s in her late 40s and she’s been doing the s",
+      "source": "The Guardian",
+      "category": "business",
+      "published": "2026-06-28T14:00:11.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "business"
+      ],
+      "keywordHits": [
+        "who"
+      ],
+      "score": 22.373938888888887,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
+    },
+    {
+      "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
+      "link": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
+      "snippet": "In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames Water As he swept towards victory in the Makerfield byelection, Andy Burnham told voters he wanted to see",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T06:00:01.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "war",
+        "election"
+      ],
+      "score": 21.971716666666666,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
+    },
+    {
+      "title": "Ministers urged to curb energy costs as Great British homes face 13% bill surge",
+      "link": "https://www.theguardian.com/business/2026/jun/28/ministers-urged-to-curb-energy-costs-as-great-british-homes-face-bill-surge",
+      "snippet": "Quarterly Ofgem price cap rises to equivalent of £1,862 a year from 1 July amid growing consumer energy debt Ministers are facing growing pressure to lower energy costs as households in Great Britain face the steepest rise in summer bills in four years this we",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T13:04:02.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
       ],
       "keywordHits": [
         "minister"
       ],
-      "score": 25.683607555555554,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Satellite images show scale of destruction in Venezuela earthquakes",
-      "link": "https://www.aljazeera.com/news/longform/2026/6/28/satellite-images-show-scale-of-destruction-in-venezuela-earthquakes?traffic_source=rss",
-      "snippet": "Satellite images show the before and after of parts of Venezuela left in ruins by two devastating quakes.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T12:37:02.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "earthquake"
-      ],
-      "score": 25.663385333333334,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "score": 21.625272222222222,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Budapest's first Pride since Orban left power",
@@ -377,218 +532,8 @@
         "prime minister",
         "minister"
       ],
-      "score": 25.543829555555554,
+      "score": 21.145716444444442,
       "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
-      "link": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns?traffic_source=rss",
-      "snippet": "The battle for el-Obeid exposes the foreign arms and polarised narratives stalling peace in Sudan’s grinding war.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T12:27:59.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 25.542718666666666,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-28T04:54:50.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "ceasefire",
-        "attack"
-      ],
-      "score": 25.500718666666668,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "The curious case of the cremation ashes left at Newbury racecourse burger van",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/28/the-curious-case-of-the-cremation-urn-left-at-newbury-racecourse",
-      "snippet": "Urn with loving messages to ‘Gary Bonsor’ to be buried in local churchyard as efforts to find family draw a blank It is a puzzling story with a still unsolved mystery at its heart: just who is the individual whose cremated remains were left on the counter of a",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T11:00:10.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 24.371829777777776,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
-      "link": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
-      "snippet": "Home-grown food may become a niche product for wealthy in our supermarkets as British farmers’ incomes plummet For Liz Webster, who farms 647 hectares (1600 acres) in Wiltshire, south west England, the latest impact of Brexit has been particularly brutal. Abou",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T11:00:07.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 24.37116311111111,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
-      "source": "BBC",
-      "category": "science-tech",
-      "published": "2026-06-28T03:15:06.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "earthquake",
-        "who"
-      ],
-      "score": 24.170940666666667,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "‘US trying to find its way out of MoU with Iran’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
-      "snippet": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T10:30:45.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "attack"
-      ],
-      "score": 23.979607555555553,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Prince Harry and family’s UK visit ‘pulled from under their feet at 11th hour’",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection",
-      "snippet": "Duke reportedly fears his children will not get to meet king after government declines request for police protection The Duke of Sussex fears his children will not meet King Charles in the coming days after their UK visit was “pulled out from under their feet ",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T09:14:35.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "government"
-      ],
-      "score": 22.964052,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "Will the weather stay dry for week one of Wimbledon?",
-      "link": "https://www.bbc.co.uk/weather/articles/cgmdx37m9npo?at_medium=RSS&at_campaign=rss",
-      "snippet": "While it will remain warmer than average, the heat and humidity will be a lot less intense than of late",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T08:52:53.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 22.674718666666667,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "'If you are alive, make any noise': Venezuela searches rubble on day 4",
-      "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
-      "snippet": "Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
-      "source": "NPR",
-      "category": "world",
-      "published": "2026-06-28T08:50:46.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "earthquake"
-      ],
-      "score": 22.646496444444445,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Full Strawberry Moon set to light up night sky",
-      "link": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The first full Moon of summer will rise across UK skies this week",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T10:51:56.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk",
-        "science-tech"
-      ],
-      "keywordHits": [],
-      "score": 21.262052,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Greens examining how party decides policy as membership triples under Zack Polanski",
-      "link": "https://www.theguardian.com/politics/2026/jun/28/greens-examining-how-party-decides-policy-as-membership-triples-under-zack-polanski",
-      "snippet": "Exclusive: Concerns in-person vote system is giving bigger say to organised fringe activists who can attend conference Senior Greens are examining ways to revamp the party’s structures to make it more effective and representative now its membership has more th",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T07:00:03.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 21.170274222222222,
-      "why": "This may affect public health guidance, services, or risk levels."
     },
     {
       "title": "U.S. pledges generous earthquake relief to Venezuela",
@@ -738,68 +683,46 @@
       "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
-      "title": "‘Tech firms are losing the public’: social media age bans near tipping point",
-      "link": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point",
-      "snippet": "UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbs Social media bans go global: big tech faces a reckoning after Australia’s crackdown Arturo Béjar, a former employee turned whistleblower at Mar",
-      "source": "The Guardian",
+      "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss",
+      "snippet": "Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.",
+      "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T10:00:06.000Z",
+      "published": "2026-06-28T19:21:23.000Z",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ],
       "categories": [
-        "world",
-        "uk"
+        "world"
       ],
       "keywordHits": [],
-      "score": 20.570940888888888,
+      "score": 20.2,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "Why some trees might fall during extreme heat",
-      "link": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
-      "source": "BBC",
-      "category": "science-tech",
-      "published": "2026-06-28T06:07:05.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "climate"
-      ],
-      "score": 20.464052,
-      "why": "Environmental and disaster stories can affect safety, infrastructure, and long-term policy."
-    },
-    {
-      "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
-      "link": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
-      "snippet": "A niche type of fraud is lucrative enough for criminals to set up fake websites with dodgy software to harvest your data After holding them for a few years, you have decided it is time to cash in your cryptocurrency holdings. The problem is, it is so long sinc",
-      "source": "The Guardian",
-      "category": "science-tech",
-      "published": "2026-06-28T06:00:01.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 20.369829777777777,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-      "link": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
-      "snippet": "Marc Lamont Hill speaks with author Adam Johnson on US corporate media’s role in enabling the genocide in Gaza.",
+      "title": "Starmer couldn’t master the media. Can Burnham?",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss",
+      "snippet": "Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T13:30:00.000Z",
+      "published": "2026-06-28T18:59:47.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 20.2,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "US and Iran trade strikes days after peace agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+      "snippet": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T18:55:53.000Z",
       "sources": [
         "Al Jazeera"
       ],
@@ -813,10 +736,10 @@
     {
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
       "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The pilot and 10 passengers died in the incident, local officials said.",
+      "snippet": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
       "source": "BBC",
       "category": "world",
-      "published": "2026-06-28T13:21:33.000Z",
+      "published": "2026-06-28T18:34:07.000Z",
       "sources": [
         "BBC"
       ],
@@ -824,35 +747,163 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 20.2,
+      "score": 20.026383555555554,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "British man held in Ecuador after woman's body found in suitcase",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia.",
+      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
+      "link": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
+      "snippet": "Home-grown food may become a niche product for wealthy in our supermarkets as British farmers’ incomes plummet For Liz Webster, who farms 647 hectares (1600 acres) in Wiltshire, south west England, the latest impact of Brexit has been particularly brutal. Abou",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T11:00:07.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "who"
+      ],
+      "score": 19.97305,
+      "why": "This may affect public health guidance, services, or risk levels."
+    },
+    {
+      "title": "Why do reports of domestic abuse increase during World Cups?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss",
+      "snippet": "Why do reports of domestic abuse increase during World Cups?",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T18:23:20.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 19.882605777777776,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
+      "source": "BBC",
+      "category": "science-tech",
+      "published": "2026-06-28T03:15:06.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [
+        "earthquake",
+        "who"
+      ],
+      "score": 19.772827777777778,
+      "why": "This may affect public health guidance, services, or risk levels."
+    },
+    {
+      "title": "The match that changed the World Cup forever",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss",
+      "snippet": "One of football&#039;s biggest scandals changed the World Cup forever.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T17:14:07.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 18.959716888888888,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Prince Harry and family’s UK visit ‘pulled from under their feet at 11th hour’",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection",
+      "snippet": "Duke reportedly fears his children will not get to meet king after government declines request for police protection The Duke of Sussex fears his children will not meet King Charles in the coming days after their UK visit was “pulled out from under their feet ",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T09:14:35.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "government"
+      ],
+      "score": 18.565938888888887,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
+    },
+    {
+      "title": "Sky makes £2bn spending pledge as it prepares takeover of ITV broadcasting arm",
+      "link": "https://www.theguardian.com/business/2026/jun/28/sky-makes-spending-pledge-as-it-prepares-takeover-of-itv-broadcasting-arm",
+      "snippet": "Deal could be announced in July and vow will safeguard future of shows such as Coronation Street and Love Island Sky has committed to spending £2bn on ITV’s studios business over the next five years as it hammers out a takeover of its broadcasting arm, a move ",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T16:41:13.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 18.52105022222222,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+      "link": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
+      "snippet": "Trump waded into race to defeat incumbent Bill Cassidy, a Republican and critic of Trump&#039;s actions following 2020 vote.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T16:32:13.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 18.401049999999998,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Will the weather stay dry for week one of Wimbledon?",
+      "link": "https://www.bbc.co.uk/weather/articles/cgmdx37m9npo?at_medium=RSS&at_campaign=rss",
+      "snippet": "While it will remain warmer than average, the heat and humidity will be a lot less intense than of late",
       "source": "BBC",
       "category": "uk",
-      "published": "2026-06-28T13:08:38.000Z",
+      "published": "2026-06-28T08:52:53.000Z",
       "sources": [
         "BBC"
       ],
       "categories": [
         "uk"
       ],
-      "keywordHits": [],
-      "score": 20.084718666666667,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "keywordHits": [
+        "war"
+      ],
+      "score": 18.276605555555555,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
-      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "link": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-      "snippet": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top politi",
-      "source": "The Guardian",
+      "title": "'If you are alive, make any noise': Venezuela searches rubble on day 4",
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
+      "snippet": "Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
+      "source": "NPR",
       "category": "world",
-      "published": "2026-06-28T05:27:30.000Z",
+      "published": "2026-06-28T08:50:46.000Z",
       "sources": [
-        "The Guardian"
+        "NPR"
       ],
       "categories": [
         "world"
@@ -860,52 +911,16 @@
       "keywordHits": [
         "earthquake"
       ],
-      "score": 19.936274222222224,
+      "score": 18.248383333333333,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "Reform UK makes dramatic first impression in Senedd opposition role",
-      "link": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
-      "snippet": "With more than a third of Welsh parliament seats, Reform MSs have caused tears and walkouts – and voted against their own party Tears, walkouts, own-goal votes: the Welsh parliament has only been sitting for a few weeks, but Reform UK has already made a dramat",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T05:00:01.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "parliament"
-      ],
-      "score": 19.569829777777777,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "Complaints filed to police watchdog over Met’s handling of Al Fayed abuse allegations",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/28/complaints-iopc-met-police-mohamed-al-fayed-harrods",
-      "snippet": "IOPC confirms complaints from three survivors of alleged sexual misconduct by late Harrods owner in addition to ongoing investigation Survivors of abuse at the hands of the late Harrods owner Mohamed Al Fayed have complained to a watchdog about how the Metropo",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T12:24:19.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 19.493829777777776,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board",
-      "link": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
-      "snippet": "The helicopter crashed in Saudi Arabia&#039;s Ras Tanura terminal, state media reported.",
+      "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss",
+      "snippet": "George Russell&#039;s victory over Max Verstappen further reduces teammate Kimi Antonelli’s lead in the drivers&#039; title race.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T12:10:24.000Z",
+      "published": "2026-06-28T16:12:13.000Z",
       "sources": [
         "Al Jazeera"
       ],
@@ -913,181 +928,8 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 19.308274222222224,
+      "score": 18.134383333333332,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "New strikes test the Iran ceasefire",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
-      "snippet": "The ceasefire between the U.S. and Iran is being tested after new attacks in the Strait of Hormuz. Mideast expert Paul Salem explains what's happened and whether the deal can still hold.",
-      "source": "NPR",
-      "category": "world",
-      "published": "2026-06-27T21:05:57.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "ceasefire",
-        "attack"
-      ],
-      "score": 19.248940666666666,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
-      "link": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
-      "snippet": "Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loans On a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to ",
-      "source": "The Guardian",
-      "category": "science-tech",
-      "published": "2026-06-28T12:00:08.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [],
-      "score": 19.171385333333333,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
-    },
-    {
-      "title": "At least 11 dead as skydiving plane crashes in France",
-      "link": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss",
-      "snippet": "Authorities say pilot and all 10 ⁠passengers - ​five students ⁠and five instructors - died in the accident in Tomblaine.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T11:52:44.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 19.072718666666667,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "World Cup 2026: Most controversial VAR officiating decisions in group stage",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage?traffic_source=rss",
-      "snippet": "From Iran&#039;s stoppage-time winner ruled out by VAR, to Ghana denied a penalty against England - all the controversies.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T11:46:04.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 18.98382977777778,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Body of missing boy, 15, found in reservoir",
-      "link": "https://www.bbc.co.uk/news/articles/c621lp8ev29o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Police say the boy's body was recovered from Cowbury Reservoir in Stalybridge on Saturday night.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T11:44:46.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 18.966496444444445,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Senior Labour figures say party is united behind Andy Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
-      "snippet": "Lucy Powell and Steve Reed say Labour MPs are backing a coronation of Burnham rather than a contest.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T11:41:54.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 18.92827422222222,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Lucy Powell agrees Ed Miliband would be ‘good’ as Andy Burnham’s chancellor",
-      "link": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor",
-      "snippet": "Labour deputy leader says she thinks energy secretary would suit Treasury but ‘tittle-tattle’ over posts ‘unedifying’ Ed Miliband would make a “good” chancellor to Andy Burnham, Labour’s deputy leader, Lucy Powell, has said, ahead of the likely next prime mini",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-28T11:41:54.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 18.92827422222222,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Murder investigation after man dies on street",
-      "link": "https://www.bbc.co.uk/news/articles/c621d2x966vo?at_medium=RSS&at_campaign=rss",
-      "snippet": "A 22-year-old is held on suspicion of murder after the death of another man initially found injured on a street.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T11:14:28.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 18.562496444444445,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "What if doing more isn’t always the answer?",
-      "link": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
-      "snippet": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s b",
-      "source": "The Guardian",
-      "category": "science-tech",
-      "published": "2026-06-28T11:00:12.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [],
-      "score": 18.372274222222224,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "These church members disagree on politics. Together they're wiping out medical debt",
-      "link": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
-      "snippet": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
-      "source": "NPR",
-      "category": "health",
-      "published": "2026-06-28T11:00:00.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "health"
-      ],
-      "keywordHits": [],
-      "score": 18.369607555555554,
-      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
       "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
@@ -1131,12 +973,12 @@
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "Ocado boss Tim Steiner’s near £100m in pay raises ‘serious concerns’",
-      "link": "https://www.theguardian.com/business/2026/jun/28/ocado-boss-tim-steiner-payouts",
-      "snippet": "Reports claim replacement being lined up for co-founder amid concern over high pay and company’s struggling share price The boss of Ocado has collected nearly £100m since the online grocery company floated on the stock market in 2010 despite its share price no",
+      "title": "‘Treating children like cattle’: what happens when private equity takes over a UK care home?",
+      "link": "https://www.theguardian.com/society/2026/jun/28/private-equity-uk-public-services-care-homes-children",
+      "snippet": "Experts raise alarm as firms aiming to maximise assets and sell for profit become more involved in vital public services ‘Financial pandemic’: £1 in every £11 spent on UK public contractors goes to private equity Nurseries, vets and shops: the sectors where pr",
       "source": "The Guardian",
       "category": "uk",
-      "published": "2026-06-28T10:22:49.000Z",
+      "published": "2026-06-28T16:00:13.000Z",
       "sources": [
         "The Guardian"
       ],
@@ -1144,16 +986,16 @@
         "uk"
       ],
       "keywordHits": [],
-      "score": 17.87382977777778,
-      "why": "This may affect household costs, income, or financial pressure for people directly."
+      "score": 17.974383333333336,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
-      "title": "Iraq security forces arrest several officials in anticorruption crackdown",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
-      "snippet": "Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.",
+      "title": "LIVE: South Africa vs Canada: FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss",
+      "snippet": "Live updates, analyses and text commentary as South Africa face cohosts Canada in first knockout match in Los Angeles.",
       "source": "Al Jazeera",
       "category": "world",
-      "published": "2026-06-28T10:05:16.000Z",
+      "published": "2026-06-28T15:51:20.000Z",
       "sources": [
         "Al Jazeera"
       ],
@@ -1161,16 +1003,279 @@
         "world"
       ],
       "keywordHits": [],
-      "score": 17.639829777777777,
+      "score": 17.85593888888889,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-      "link": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-      "snippet": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s status Polls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, afte",
+      "title": "Trade tensions shake up Brazil's caipirinha spirit",
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
+      "snippet": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
+      "source": "NPR",
+      "category": "world",
+      "published": "2026-06-28T15:45:42.000Z",
+      "sources": [
+        "NPR"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 17.780827777777777,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-28T15:42:01.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 17.731716666666667,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Body of missing boy, 15, found in reservoir",
+      "link": "https://www.bbc.co.uk/news/articles/c621lp8ev29o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Police say the boy's body was recovered from Cowbury Reservoir in Stalybridge on Saturday night.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T15:40:01.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 17.70505,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Murder investigation after man dies on street",
+      "link": "https://www.bbc.co.uk/news/articles/c621d2x966vo?at_medium=RSS&at_campaign=rss",
+      "snippet": "A 22-year-old is held on suspicion of murder after the death of another man initially found injured on a street.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T15:29:18.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 17.56216111111111,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Uganda's leading media outlets shut down by army chief",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "snippet": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-28T15:19:53.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 17.436605555555555,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Iraq arrests senior officials in anti-corruption raids",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
+      "snippet": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T15:19:36.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 17.432827777777778,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Ben Stokes, England test captain, to retire from international cricket",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/ben-stokes-england-test-captain-to-retire-from-international-cricket?traffic_source=rss",
+      "snippet": "England test captain Ben Stokes will retire from international cricket after the ongoing test match against New Zealand.",
+      "source": "Al Jazeera",
+      "category": "world",
+      "published": "2026-06-28T15:12:59.000Z",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 17.344605555555553,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Senior Labour figures say party is united behind Andy Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
+      "snippet": "Lucy Powell and Steve Reed say Labour MPs are backing a coronation of Burnham rather than a contest.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T14:57:11.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 17.13393888888889,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Full Strawberry Moon set to light up night sky",
+      "link": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The first full Moon of summer will rise across UK skies this week",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T10:51:56.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk",
+        "science-tech"
+      ],
+      "keywordHits": [],
+      "score": 16.86393888888889,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Lucy Powell agrees Ed Miliband would be ‘good’ as Andy Burnham’s chancellor",
+      "link": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor",
+      "snippet": "Labour deputy leader says she thinks energy secretary would suit Treasury but ‘tittle-tattle’ over posts ‘unedifying’ Ed Miliband would make a “good” chancellor to Andy Burnham, Labour’s deputy leader, Lucy Powell, has said, before the likely next prime minist",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T14:33:27.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 16.817494444444442,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Greens examining how party decides policy as membership triples under Zack Polanski",
+      "link": "https://www.theguardian.com/politics/2026/jun/28/greens-examining-how-party-decides-policy-as-membership-triples-under-zack-polanski",
+      "snippet": "Exclusive: Concerns in-person vote system is giving bigger say to organised fringe activists who can attend conference Senior Greens are examining ways to revamp the party’s structures to make it more effective and representative now its membership has more th",
+      "source": "The Guardian",
+      "category": "uk",
+      "published": "2026-06-28T07:00:03.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [
+        "who"
+      ],
+      "score": 16.77216111111111,
+      "why": "This may affect public health guidance, services, or risk levels."
+    },
+    {
+      "title": "Family 'fight for justice' after murder acquittal",
+      "link": "https://www.bbc.co.uk/news/articles/c0jyejngg4eo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The girl's family say the verdict leaves the public \"wondering what consequences truly exist\".",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T13:48:09.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 16.213494444444443,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "‘Tech firms are losing the public’: social media age bans near tipping point",
+      "link": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point",
+      "snippet": "UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbs Social media bans go global: big tech faces a reckoning after Australia’s crackdown Arturo Béjar, a former employee turned whistleblower at Mar",
       "source": "The Guardian",
       "category": "world",
-      "published": "2026-06-28T02:26:48.000Z",
+      "published": "2026-06-28T10:00:06.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "world",
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 16.172827777777776,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Why some trees might fall during extreme heat",
+      "link": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
+      "source": "BBC",
+      "category": "science-tech",
+      "published": "2026-06-28T06:07:05.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [
+        "climate"
+      ],
+      "score": 16.065938888888887,
+      "why": "Environmental and disaster stories can affect safety, infrastructure, and long-term policy."
+    },
+    {
+      "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
+      "link": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
+      "snippet": "A niche type of fraud is lucrative enough for criminals to set up fake websites with dodgy software to harvest your data After holding them for a few years, you have decided it is time to cash in your cryptocurrency holdings. The problem is, it is so long sinc",
+      "source": "The Guardian",
+      "category": "science-tech",
+      "published": "2026-06-28T06:00:01.000Z",
+      "sources": [
+        "The Guardian"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [
+        "war"
+      ],
+      "score": 15.971716666666666,
+      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
+    },
+    {
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "link": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "snippet": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top politi",
+      "source": "The Guardian",
+      "category": "world",
+      "published": "2026-06-28T05:27:30.000Z",
       "sources": [
         "The Guardian"
       ],
@@ -1178,95 +1283,29 @@
         "world"
       ],
       "keywordHits": [
-        "election"
+        "earthquake"
       ],
-      "score": 17.52694066666667,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
-    },
-    {
-      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
-      "snippet": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T09:33:43.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 17.21916311111111,
+      "score": 15.53816111111111,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "Harry reconsiders bringing Meghan and children on UK trip",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-      "snippet": "It comes after his request for police protection was rejected days before the family is due to arrive.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T08:44:25.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 16.561829777777778,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance",
-      "link": "https://www.aljazeera.com/video/2026/6/28/video-world-cup-2026-highlights?traffic_source=rss",
-      "snippet": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "source": "Al Jazeera",
-      "category": "world",
-      "published": "2026-06-28T08:30:41.000Z",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 16.378718666666664,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Paul Hogan has reportedly called Pauline Hanson a ‘pelican’. Please explain?",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/paul-hogan-pauline-hanson-pelican-insult-australian-slang-please-explain",
-      "snippet": "Crocodile Dundee was held up by the One Nation leader as an exemplar of ‘Australian monoculture’. Hoges had other ideas Get our breaking news email, free app or daily news podcast In one swift rhetorical blow, Crocodile Dundee has disarmed Pauline Hanson’s lat",
+      "title": "Reform UK makes dramatic first impression in Senedd opposition role",
+      "link": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
+      "snippet": "With more than a third of Welsh parliament seats, Reform MSs have caused tears and walkouts – and voted against their own party Tears, walkouts, own-goal votes: the Welsh parliament has only been sitting for a few weeks, but Reform UK has already made a dramat",
       "source": "The Guardian",
-      "category": "world",
-      "published": "2026-06-28T07:41:24.000Z",
+      "category": "uk",
+      "published": "2026-06-28T05:00:01.000Z",
       "sources": [
         "The Guardian"
       ],
       "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 15.721607555555554,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Firm fined £50,000 over worker's fatal fall",
-      "link": "https://www.bbc.co.uk/news/articles/c75y17qd5l7o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The worker fell through an unglazed window at the building site in New Malden.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T07:12:09.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
         "uk"
       ],
-      "keywordHits": [],
-      "score": 15.331607555555555,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
+      "keywordHits": [
+        "parliament"
+      ],
+      "score": 15.171716666666667,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
       "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
@@ -1449,26 +1488,6 @@
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "Environmental plan is largely off track, warns watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1e0zqvyxo?at_medium=RSS&at_campaign=rss",
-      "snippet": "A report says many of the measures are \"well within the reach\" of government and it was a matter of \"moving away from planning into delivery\".",
-      "source": "BBC",
-      "category": "science-tech",
-      "published": "2026-06-24T05:24:47.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "war",
-        "government"
-      ],
-      "score": 15,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
       "title": "The audacious plan to refreeze the Arctic – podcast",
       "link": "https://www.theguardian.com/science/audio/2026/jun/18/inside-the-audacious-plan-to-refreeze-the-arctic-podcast",
       "snippet": "Sea ice is melting fast and worsening the climate crisis. But what if there were a way to thicken it again? Madeleine Finlay is joined by environment editor Damian Carrington to discuss a bold attempt to refreeze the Arctic which is showing early signs of succ",
@@ -1629,163 +1648,142 @@
       "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
-      "title": "Social media contributed to our son's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The family of murdered teenager Joshua Hall are welcoming the ban on social media for under 16s.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T06:37:02.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 14.863385333333333,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "George Best's European Cup medal sells for £300k",
-      "link": "https://www.bbc.co.uk/news/articles/cddl5e15yvlo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The mazy winger was presented with his medal after Manchester United beat Benfica at Wembley Stadium.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T06:17:38.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 14.604718666666667,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Zoo repopulating one of UK's rarest butterflies",
-      "link": "https://www.bbc.co.uk/news/articles/c07ymknp11do?at_medium=RSS&at_campaign=rss",
-      "snippet": "Dartmoor Zoo hopes to repopulate rare black-veined white butterflies in the UK.",
-      "source": "BBC",
+      "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
+      "link": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
+      "snippet": "Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loans On a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to ",
+      "source": "The Guardian",
       "category": "science-tech",
-      "published": "2026-06-28T06:10:39.000Z",
+      "published": "2026-06-28T12:00:08.000Z",
       "sources": [
-        "BBC"
+        "The Guardian"
       ],
       "categories": [
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 14.511607555555555,
+      "score": 14.773272222222221,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
-      "title": "'Lost' ant species reintroduced to woodland",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4kxnpy9ko?at_medium=RSS&at_campaign=rss",
-      "snippet": "Southern red wood ants are considered a keystone species, benefiting the ecosystems around them.",
-      "source": "BBC",
-      "category": "science-tech",
-      "published": "2026-06-28T06:07:52.000Z",
+      "title": "Spirit airlines is dead and a bus travel boom looks likely – but will Greyhounds ever be cool again?",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/spirit-airlines-greyhound-bus-travel-boom",
+      "snippet": "For most Americans, riding a bus means abandoning expectations of basic dignity – but with an increase in ridership, that could change “It’s a grueling experience,” Greyhound bus enthusiast Miles Taylor explains. “You’re not treated very well. Everyone is yell",
+      "source": "The Guardian",
+      "category": "business",
+      "published": "2026-06-28T12:00:08.000Z",
       "sources": [
-        "BBC"
+        "The Guardian"
+      ],
+      "categories": [
+        "business"
+      ],
+      "keywordHits": [],
+      "score": 14.773272222222221,
+      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
+    },
+    {
+      "title": "What if doing more isn’t always the answer?",
+      "link": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
+      "snippet": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s b",
+      "source": "The Guardian",
+      "category": "science-tech",
+      "published": "2026-06-28T11:00:12.000Z",
+      "sources": [
+        "The Guardian"
       ],
       "categories": [
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 14.474496444444444,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+      "score": 13.974161111111112,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
-      "title": "Former cancer patient, 6, returns to hospital to be 'doctor' for the day",
-      "link": "https://www.bbc.co.uk/news/articles/cwyd1780wj9o?at_medium=RSS&at_campaign=rss",
-      "snippet": "A six-year-old returns to the hospital that treated her for cancer - but this time not as a patient.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T05:37:11.000Z",
+      "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
+      "snippet": "Any new tax on the rich won’t raise much money unless many of the exceptions and loopholes are dealt with In this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on Elon Musk ’s new trillion-dollar fortune. What most bothers Am",
+      "source": "The Guardian",
+      "category": "business",
+      "published": "2026-06-28T11:00:10.000Z",
       "sources": [
-        "BBC"
+        "The Guardian"
       ],
       "categories": [
-        "uk"
+        "business"
       ],
       "keywordHits": [],
-      "score": 14.065385333333332,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "score": 13.973716666666666,
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
-      "title": "England fans react to 2-0 Panama victory at the World Cup",
-      "link": "https://www.bbc.co.uk/news/videos/c0ry9ddg99qo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Fans in New York and back at home cheered on as England won against Panama to finish top of Group L.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T04:36:41.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 13.258718666666667,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "Reporter's Notebook: What its like to report from an Ebola outbreak",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak",
-      "snippet": "Covering an Ebola outbreak means taking extra precautions. In this Reporter's Notebook, NPR's Emmet Livingstone takes us behind the reporting in eastern Congo.",
+      "title": "These church members disagree on politics. Together they're wiping out medical debt",
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
+      "snippet": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
       "source": "NPR",
-      "category": "world",
-      "published": "2026-06-27T21:05:56.000Z",
+      "category": "health",
+      "published": "2026-06-28T11:00:00.000Z",
       "sources": [
         "NPR"
+      ],
+      "categories": [
+        "health"
+      ],
+      "keywordHits": [],
+      "score": 13.971494444444444,
+      "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
+    },
+    {
+      "title": "Tips for taking care of your pets when fireworks are booming",
+      "link": "https://www.npr.org/2026/06/28/g-s1-130446/fireworks-pets-dogs-cats",
+      "snippet": "Communities around the U.S. are putting on epic fireworks shows for America's 250th birthday — but that spells trouble for dogs and cats. Here's a guide to help the animals in your life.",
+      "source": "NPR",
+      "category": "science-tech",
+      "published": "2026-06-28T10:00:00.000Z",
+      "sources": [
+        "NPR"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [],
+      "score": 13.171494444444445,
+      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+    },
+    {
+      "title": "New Caledonia polls open in first local vote in the French territory since 2019",
+      "link": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+      "snippet": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s status Polls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, afte",
+      "source": "The Guardian",
+      "category": "world",
+      "published": "2026-06-28T02:26:48.000Z",
+      "sources": [
+        "The Guardian"
       ],
       "categories": [
         "world"
       ],
       "keywordHits": [
-        "outbreak"
+        "election"
       ],
-      "score": 13.248718444444442,
-      "why": "This may affect public health guidance, services, or risk levels."
+      "score": 13.128827777777778,
+      "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
-      "title": "Man arrested on suspicion of attempted murder after car hits pedestrians in London",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-      "snippet": "Suspect held after five people injured, including three who were taken to hospital, in Ealing on Saturday afternoon A man has been arrested on suspicion of attempted murder after a vehicle hit multiple pedestrians on a busy London road before driving away, pol",
-      "source": "The Guardian",
+      "title": "Harry reconsiders bringing Meghan and children on UK trip",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
+      "snippet": "It comes after his request for police protection was rejected days before the family is due to arrive.",
+      "source": "BBC",
       "category": "uk",
-      "published": "2026-06-27T20:17:09.000Z",
+      "published": "2026-06-28T08:44:25.000Z",
       "sources": [
-        "The Guardian"
+        "BBC"
       ],
       "categories": [
         "uk"
       ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 12.598274,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
-      "snippet": "Firefighters working on the nation's largest current wildfire, burning in southern Utah, are being challenged by historic weather conditions. Extreme wildfire behavior is expected to continue through the weekend.",
-      "source": "NPR",
-      "category": "science-tech",
-      "published": "2026-06-27T19:40:06.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "wildfire"
-      ],
-      "score": 12.104274,
-      "why": "This may affect household costs, income, or financial pressure for people directly."
+      "keywordHits": [],
+      "score": 12.163716666666668,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
     },
     {
       "title": "Tech Life",
@@ -1822,12 +1820,46 @@
       "why": "Health stories can affect services, guidance, research priorities, or everyday risk decisions."
     },
     {
-      "title": "Could legal 'personhood' help save Lough Neagh?",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7vy307xlo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections.",
+      "title": "Firm fined £50,000 over worker's fatal fall",
+      "link": "https://www.bbc.co.uk/news/articles/c75y17qd5l7o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The worker fell through an unglazed window at the building site in New Malden.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T07:12:09.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 10.933494444444444,
+      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
+    },
+    {
+      "title": "George Best's European Cup medal sells for £300k",
+      "link": "https://www.bbc.co.uk/news/articles/cddl5e15yvlo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The mazy winger was presented with his medal after Manchester United beat Benfica at Wembley Stadium.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T06:17:38.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 10.206605555555555,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Zoo repopulating one of UK's rarest butterflies",
+      "link": "https://www.bbc.co.uk/news/articles/c07ymknp11do?at_medium=RSS&at_campaign=rss",
+      "snippet": "Dartmoor Zoo hopes to repopulate rare black-veined white butterflies in the UK.",
       "source": "BBC",
       "category": "science-tech",
-      "published": "2026-06-27T23:01:27.000Z",
+      "published": "2026-06-28T06:10:39.000Z",
       "sources": [
         "BBC"
       ],
@@ -1835,76 +1867,98 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 11.788940666666667,
-      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
+      "score": 10.113494444444443,
+      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
-      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "title": "'Lost' ant species reintroduced to woodland",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4kxnpy9ko?at_medium=RSS&at_campaign=rss",
+      "snippet": "Southern red wood ants are considered a keystone species, benefiting the ecosystems around them.",
+      "source": "BBC",
+      "category": "science-tech",
+      "published": "2026-06-28T06:07:52.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [],
+      "score": 10.076383333333332,
+      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+    },
+    {
+      "title": "Former cancer patient, 6, returns to hospital to be 'doctor' for the day",
+      "link": "https://www.bbc.co.uk/news/articles/cwyd1780wj9o?at_medium=RSS&at_campaign=rss",
+      "snippet": "A six-year-old returns to the hospital that treated her for cancer - but this time not as a patient.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T05:37:11.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 9.667272222222222,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Bad Bunny lights up London with history-making stadium show",
       "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
       "snippet": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
       "source": "BBC",
-      "category": "uk",
+      "category": "world",
       "published": "2026-06-28T01:46:24.000Z",
       "sources": [
         "BBC"
       ],
       "categories": [
+        "world",
         "uk"
       ],
       "keywordHits": [],
-      "score": 10.988273999999999,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "score": 9.590161111111112,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
-      "title": "How Andy Burnham's school teacher inspired him to believe in himself",
-      "link": "https://www.bbc.co.uk/news/articles/c2eymr3xrewo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Steve Harrington says he had to convince the front-runner for Labour leader into going to Cambridge University.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-28T01:00:45.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [],
-      "score": 10.379607333333333,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
-    },
-    {
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-      "source": "BBC",
+      "title": "Reporter's Notebook: What its like to report from an Ebola outbreak",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak",
+      "snippet": "Covering an Ebola outbreak means taking extra precautions. In this Reporter's Notebook, NPR's Emmet Livingstone takes us behind the reporting in eastern Congo.",
+      "source": "NPR",
       "category": "world",
-      "published": "2026-06-28T00:06:19.000Z",
+      "published": "2026-06-27T21:05:56.000Z",
       "sources": [
-        "BBC"
+        "NPR"
       ],
       "categories": [
         "world"
       ],
-      "keywordHits": [],
-      "score": 9.653829555555554,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "keywordHits": [
+        "outbreak"
+      ],
+      "score": 9,
+      "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "Clarke steps down as Scotland boss after World Cup exit",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.",
-      "source": "BBC",
-      "category": "uk",
-      "published": "2026-06-27T23:37:18.000Z",
+      "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+      "snippet": "Firefighters working on the nation's largest current wildfire, burning in southern Utah, are being challenged by historic weather conditions. Extreme wildfire behavior is expected to continue through the weekend.",
+      "source": "NPR",
+      "category": "science-tech",
+      "published": "2026-06-27T19:40:06.000Z",
       "sources": [
-        "BBC"
+        "NPR"
       ],
       "categories": [
-        "uk"
+        "science-tech"
       ],
-      "keywordHits": [],
-      "score": 9.266940666666665,
-      "why": "UK stories can affect public services, national policy, and daily life across the country."
+      "keywordHits": [
+        "wildfire"
+      ],
+      "score": 9,
+      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
@@ -1924,44 +1978,6 @@
       ],
       "score": 9,
       "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "The war for Burnham’s ear: politicians and wonks fight for influence over a PM",
-      "link": "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence",
-      "snippet": "There is high emotion, a deluge of policy papers and an ‘excruciating’ jostle for jobs as Labour’s probable next leader settles back into Westminster life As well as being the most popular politician in the country – for now – Andy Burnham is also the most pop",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-27T13:00:04.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 9,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
-      "title": "David Hencke, Guardian journalist who exposed cash-for-questions scandal, dies aged 79",
-      "link": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies",
-      "snippet": "Former Westminster correspondent earned a reputation for uncovering political wrongdoing in the 1990s The acclaimed journalist David Hencke, whose career at the Guardian spanned more than three decades, has died of liver cancer aged 79. As Westminster correspo",
-      "source": "The Guardian",
-      "category": "uk",
-      "published": "2026-06-27T11:30:28.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "uk"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 9,
-      "why": "This may affect public health guidance, services, or risk levels."
     },
     {
       "title": "Amber extreme heat warning extended before cooldown ends record-breaking heatwave",
@@ -2002,25 +2018,6 @@
       "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
-      "title": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
-      "snippet": "It's about who produces the best, most succulent steaks, and how to prepare the meat. Argentina and Texas are two of the top cattle-raising areas of the world, where steak is deeply ingrained in diet and culture.",
-      "source": "NPR",
-      "category": "world",
-      "published": "2026-06-27T07:03:18.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 9,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
       "title": "Watch Bill Kober, 98, who does 40 press-ups a day",
       "link": "https://www.bbc.co.uk/news/videos/cq510v51vlvo?at_medium=RSS&at_campaign=rss",
       "snippet": "A 98-year-old man defeats a reporter nearly 70 years his junior in a garden press-ups contest.",
@@ -2059,25 +2056,6 @@
       "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
     },
     {
-      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
-      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T03:07:46.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "who"
-      ],
-      "score": 9,
-      "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
       "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
       "link": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
       "snippet": "Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near Jindabyne Get our breaking news email, free app or daily news podcast Two hikers who veered off a walking track in Kosciuszko national",
@@ -2095,25 +2073,6 @@
       ],
       "score": 9,
       "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-26T23:01:50.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [
-        "attack"
-      ],
-      "score": 9,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
       "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
@@ -2361,25 +2320,6 @@
       ],
       "score": 9,
       "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
-    },
-    {
-      "title": "Key Fed inflation gauge rises to three-year high in May after gas prices peaked",
-      "link": "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
-      "snippet": "Consumer prices rose 4.1% in May from a year earlier – a sign rising costs could pose problem for Trump in midterms The Federal Reserve’s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose politi",
-      "source": "The Guardian",
-      "category": "business",
-      "published": "2026-06-25T16:14:37.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "business"
-      ],
-      "keywordHits": [
-        "inflation"
-      ],
-      "score": 9,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
     },
     {
       "title": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
@@ -2686,25 +2626,6 @@
       "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
     },
     {
-      "title": "Condemned to plutocracy? The relentless rise of US inequality",
-      "link": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-      "snippet": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic advisers, laid out the s",
-      "source": "The Guardian",
-      "category": "business",
-      "published": "2026-06-21T08:00:25.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "business"
-      ],
-      "keywordHits": [
-        "president"
-      ],
-      "score": 9,
-      "why": "Business and economy stories can affect prices, jobs, markets, and public finances."
-    },
-    {
       "title": "A new app could help streamline loon data by enabling citizens to log observations",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5860703/a-new-app-could-help-streamline-loon-data-by-enabling-citizens-to-log-observations",
       "snippet": "Loons, beloved American waterbirds, face threats from climate change and pollution. An oil spill settlement funds a new phone app helping non-scientists to aid research on these birds.",
@@ -2762,25 +2683,6 @@
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "How to map quadrillions of miles of underground fungi",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5855231/how-to-map-quadrillions-of-miles-of-underground-fungi",
-      "snippet": "NPR's Adrian Florido speaks with ecologist Justin Stewart about mapping the complex network of fungi connecting the Earth's plants.",
-      "source": "NPR",
-      "category": "science-tech",
-      "published": "2026-06-16T21:29:14.000Z",
-      "sources": [
-        "NPR"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [
-        "war"
-      ],
-      "score": 9,
-      "why": "Conflict stories can have humanitarian, diplomatic, and security consequences."
-    },
-    {
       "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
       "snippet": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
@@ -2817,25 +2719,6 @@
       ],
       "score": 9,
       "why": "This may affect public health guidance, services, or risk levels."
-    },
-    {
-      "title": "Resident doctors cancel strike after new offer from government",
-      "link": "https://www.bbc.co.uk/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
-      "source": "BBC",
-      "category": "health",
-      "published": "2026-06-13T20:46:11.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "health"
-      ],
-      "keywordHits": [
-        "government"
-      ],
-      "score": 9,
-      "why": "This could affect public policy, leadership, or democratic decision-making."
     },
     {
       "title": "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk",
@@ -2914,12 +2797,29 @@
       "why": "This may affect public health guidance, services, or risk levels."
     },
     {
-      "title": "Tech firms are blaming AI for mega device and console price rises",
-      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
+      "title": "England fans react to 2-0 Panama victory at the World Cup",
+      "link": "https://www.bbc.co.uk/news/videos/c0ry9ddg99qo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Fans in New York and back at home cheered on as England won against Panama to finish top of Group L.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-28T04:36:41.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 8.860605555555555,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Could legal 'personhood' help save Lough Neagh?",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7vy307xlo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections.",
       "source": "BBC",
       "category": "science-tech",
-      "published": "2026-06-27T23:10:47.000Z",
+      "published": "2026-06-27T23:01:27.000Z",
       "sources": [
         "BBC"
       ],
@@ -2927,93 +2827,8 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 8.913385111111111,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
-    },
-    {
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-      "snippet": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T23:10:39.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 8.911607333333333,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-      "link": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T22:34:11.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 8.425385111111112,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T21:35:40.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 7.645162888888887,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "snippet": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T20:48:16.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 7.013162888888887,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "snippet": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T20:03:26.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 6.415385111111112,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+      "score": 7.390827555555553,
+      "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
     },
     {
       "title": "The abundant but expensive energy source that's under your feet",
@@ -3070,6 +2885,159 @@
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-28T00:06:19.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 5.255716666666665,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-27T23:40:43.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 4.914383333333333,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Clarke steps down as Scotland boss after World Cup exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.",
+      "source": "BBC",
+      "category": "uk",
+      "published": "2026-06-27T23:37:18.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "uk"
+      ],
+      "keywordHits": [],
+      "score": 4.868827777777778,
+      "why": "UK stories can affect public services, national policy, and daily life across the country."
+    },
+    {
+      "title": "Tech firms are blaming AI for mega device and console price rises",
+      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
+      "source": "BBC",
+      "category": "science-tech",
+      "published": "2026-06-27T23:10:47.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "science-tech"
+      ],
+      "keywordHits": [],
+      "score": 4.515272222222222,
+      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
+    },
+    {
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "snippet": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-27T23:10:39.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 4.513494444444444,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "link": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-27T22:34:11.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 4.027272,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Venezuela races to find survivors",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872799/venezuela-races-to-find-survivors",
+      "snippet": "The search for survivors is entering a critical stage in Venezuela. NPR'S Eyder Peralta reports from La Guaira where rescue crews are still hoping to find people alive.",
+      "source": "NPR",
+      "category": "world",
+      "published": "2026-06-27T21:06:02.000Z",
+      "sources": [
+        "NPR"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 3,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "snippet": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-27T20:48:16.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 3,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "snippet": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "source": "BBC",
+      "category": "world",
+      "published": "2026-06-27T20:03:26.000Z",
+      "sources": [
+        "BBC"
+      ],
+      "categories": [
+        "world"
+      ],
+      "keywordHits": [],
+      "score": 3,
+      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
+    },
+    {
       "title": "Europe's deadly heatwave breaks German record and halts public events",
       "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
       "snippet": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
@@ -3083,7 +3051,7 @@
         "science-tech"
       ],
       "keywordHits": [],
-      "score": 3.8533851111111126,
+      "score": 3,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
     },
     {
@@ -3102,23 +3070,6 @@
       "keywordHits": [],
       "score": 3,
       "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The West African country's junta accused the former colonial power of undermining its national interests.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T14:21:31.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
       "title": "Australian Prof. Ajay Narendra discusses his team's discovery of the 'ballista spider'",
@@ -3255,57 +3206,6 @@
       "keywordHits": [],
       "score": 3,
       "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
-    },
-    {
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T02:57:20.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "This affects consumer protection, market fairness, or how companies are held accountable."
-    },
-    {
-      "title": "Pete Buttigieg briefly separated from children after false police report",
-      "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T00:40:44.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
-    },
-    {
-      "title": "Religion row as Texas makes Bible stories required reading in schools",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-      "source": "BBC",
-      "category": "world",
-      "published": "2026-06-27T00:31:42.000Z",
-      "sources": [
-        "BBC"
-      ],
-      "categories": [
-        "world"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "World stories can affect diplomacy, security, trade, migration, or humanitarian conditions."
     },
     {
       "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
@@ -3612,23 +3512,6 @@
       "keywordHits": [],
       "score": 3,
       "why": "Legal and court decisions can set precedents, change accountability, or affect public trust."
-    },
-    {
-      "title": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
-      "link": "https://www.theguardian.com/us-news/2026/jun/26/billionaires-wealth-soars-as-workers-struggle",
-      "snippet": "Ultrarich face backlash as billionaire tax in California makes it to the ballot and Americans organize for higher wages The day that Elon Musk became the world’s first trillionaire, Gilberto Rubio, a security officer in the San Francisco area, said he was thin",
-      "source": "The Guardian",
-      "category": "business",
-      "published": "2026-06-26T09:00:14.000Z",
-      "sources": [
-        "The Guardian"
-      ],
-      "categories": [
-        "business"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "This may affect household costs, income, or financial pressure for people directly."
     },
     {
       "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
@@ -4030,23 +3913,6 @@
       "published": "2026-06-24T05:00:37.000Z",
       "sources": [
         "The Guardian"
-      ],
-      "categories": [
-        "science-tech"
-      ],
-      "keywordHits": [],
-      "score": 3,
-      "why": "Science and technology stories can shape regulation, research, security, and how people use new tools."
-    },
-    {
-      "title": "Hundreds of schools plan closures ahead of red heat alerts",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year.",
-      "source": "BBC",
-      "category": "science-tech",
-      "published": "2026-06-24T02:26:39.000Z",
-      "sources": [
-        "BBC"
       ],
       "categories": [
         "science-tech"
